@@ -1,0 +1,4 @@
+| Visual Studio 2019 update
+
+Version 162.5 is downloaded and ready to install
+
