@@ -24,12 +24,11 @@ D:\IT\On_tap\C#\learn\source\repos\ocr.tesseract.v5\ocr1\ocr1\obj\Debug\ocr1.csp
 D:\IT\On_tap\C#\learn\source\repos\ocr.tesseract.v5\ocr1\ocr1\obj\Debug\ocr1.csproj.CoreCompileInputs.cache
 D:\IT\On_tap\C#\learn\source\repos\ocr.tesseract.v5\ocr1\ocr1\obj\Debug\ocr1.exe
 D:\IT\On_tap\C#\learn\source\repos\ocr.tesseract.v5\ocr1\ocr1\obj\Debug\ocr1.pdb
-D:\IT\Code\C#\ocr.tesseract.v5\ocr1\ocr1\bin\Debug\ocr1.exe
-D:\IT\Code\C#\ocr.tesseract.v5\ocr1\ocr1\bin\Debug\ocr1.pdb
-D:\IT\Code\C#\ocr.tesseract.v5\ocr1\ocr1\obj\Debug\ocr1.csprojAssemblyReference.cache
 D:\IT\Code\C#\ocr.tesseract.v5\ocr1\ocr1\obj\Debug\ocr1.Form1.resources
-D:\IT\Code\C#\ocr.tesseract.v5\ocr1\ocr1\obj\Debug\ocr1.Properties.Resources.resources
 D:\IT\Code\C#\ocr.tesseract.v5\ocr1\ocr1\obj\Debug\ocr1.csproj.GenerateResource.cache
 D:\IT\Code\C#\ocr.tesseract.v5\ocr1\ocr1\obj\Debug\ocr1.csproj.CoreCompileInputs.cache
-D:\IT\Code\C#\ocr.tesseract.v5\ocr1\ocr1\obj\Debug\ocr1.exe
-D:\IT\Code\C#\ocr.tesseract.v5\ocr1\ocr1\obj\Debug\ocr1.pdb
+D:\IT\Code\C#\ocr.tesseract.v5\ocr1\ocr1\bin\Debug\OCR Tesseract.exe
+D:\IT\Code\C#\ocr.tesseract.v5\ocr1\ocr1\bin\Debug\OCR Tesseract.pdb
+D:\IT\Code\C#\ocr.tesseract.v5\ocr1\ocr1\obj\Debug\OCR_Tesseract.Properties.Resources.resources
+D:\IT\Code\C#\ocr.tesseract.v5\ocr1\ocr1\obj\Debug\OCR Tesseract.exe
+D:\IT\Code\C#\ocr.tesseract.v5\ocr1\ocr1\obj\Debug\OCR Tesseract.pdb
